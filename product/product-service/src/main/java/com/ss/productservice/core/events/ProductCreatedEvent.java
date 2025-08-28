@@ -1,4 +1,4 @@
-package com.ss.productserive.core.events;
+package com.ss.productservice.core.events;
 
 
 import lombok.Builder;

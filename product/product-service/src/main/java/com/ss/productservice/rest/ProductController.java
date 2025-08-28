@@ -1,6 +1,6 @@
-package com.ss.productserive.rest;
+package com.ss.productservice.rest;
 
-import com.ss.productserive.command.CreateProductCommand;
+import com.ss.productservice.command.CreateProductCommand;
 import lombok.RequiredArgsConstructor;
 import org.axonframework.commandhandling.gateway.CommandGateway;
 import org.springframework.web.bind.annotation.*;

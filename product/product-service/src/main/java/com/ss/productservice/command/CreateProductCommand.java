@@ -1,4 +1,4 @@
-package com.ss.productserive.command;
+package com.ss.productservice.command;
 
 import lombok.Builder;
 

@@ -1,6 +1,6 @@
-package com.ss.productserive.command;
+package com.ss.productservice.command;
 
-import com.ss.productserive.core.events.ProductCreatedEvent;
+import com.ss.productservice.core.events.ProductCreatedEvent;
 import org.axonframework.commandhandling.CommandHandler;
 import org.axonframework.eventsourcing.EventSourcingHandler;
 import org.axonframework.modelling.command.AggregateIdentifier;

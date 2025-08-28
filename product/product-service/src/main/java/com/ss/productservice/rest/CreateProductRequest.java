@@ -1,4 +1,4 @@
-package com.ss.productserive.rest;
+package com.ss.productservice.rest;
 
 import java.math.BigDecimal;
 
